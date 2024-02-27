@@ -1,7 +1,6 @@
 .env
 bin
 "_templ.go"
-package.json
-package-lock.json
+/package-lock.json
 tailwind.config.js
 node_modules
